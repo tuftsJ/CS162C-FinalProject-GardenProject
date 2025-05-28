@@ -1,0 +1,62 @@
+Welcome to Plant Pro!
+
+Prompt:
+You have no plants saved, would you like to add some plants?
+
+(yes or no) // button within prompt to intake user decision.
+
+a) If yes >>>
+
+Prompt:
+
+What is the name of the plant?
+Do you have the Latin name?
+How old is the plant?
+Where does the plant come from originally?
+How tall is the plant?
+Size of the container?
+What are the general care instructions? // replaced with API call 
+(SUBMIT) // button to save new plant information
+
+If no, go to b.
+
+b) Ok! Nothing to do! // response if there are no plants or if everything is done. // no plants or nothing to do
+
+b-2) 
+Plant 1 - entered into system: 5/5/25 
+
+Name: Aloe
+
+Binomial name: Aloe Vera
+
+Age: freshly rooted pup
+
+Distribution: 
+Aloe vera is considered to be native only to the south-east[31] Arabian Peninsula in the Hajar Mountains in north-eastern Oman and eastern U.A.E.[32] 
+However, it has been widely cultivated around the world, 
+and has become naturalized in North Africa, as well as Sudan and neighboring countries, along with the Canary Islands, Cape Verde, and Madeira Islands.[16] 
+It has also naturalized in the Algarve region of Portugal,[33][34] and in wild areas across Spain, especially in the region of Murcia.[35]
+The species was introduced to China and various parts of southern Europe in the 17th century.[36] 
+It is widely naturalized elsewhere, occurring in arid, temperate, and tropical regions of temperate continents.[4][32][37] The current distribution may be the result of cultivation.
+Container: small 4 in pot
+
+Care instructions:
+n pots, the species requires well-drained, sandy potting soil, and bright, sunny conditions. 
+Aloe plants can turn red from sunburn under too much direct sun, though gradual acclimation may help.[44] 
+The use of a good-quality commercial propagation mix or packaged "cacti and succulent mix" is recommended, as they allow good drainage.[45] 
+Terra cotta pots are preferable as they are porous.[45] 
+Potted plants should be allowed to completely dry before rewatering.
+
+Last watering: 2 weeks ago 
+Last feeding: 6 months ago
+
+After the information it would display options to add information or add things that the user is going to do to the plant. 
+
+Prompt: 
+Would you like to water the Aloe?
+(yes/no)
+
+If yes >>>
+How much water are you going to give?
+
+If no >>> ok, don't forget to water next week!
