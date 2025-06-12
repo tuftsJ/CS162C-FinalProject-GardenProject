@@ -1,14 +1,9 @@
 # ninja log v6
-2	563	7701020044709022	CMakeFiles/CS162_Project.dir/main.cpp.obj	bb1b4ec985544e83
-7	834	7701020044761108	CMakeFiles/CS162_Project.dir/plant.cpp.obj	8e2073e7ea2bfe78
-13	886	7701020044812980	CMakeFiles/CS162_Project.dir/gardenLog.cpp.obj	366e716bde9ff508
-886	1146	7701020053549257	CS162_Project.exe	91e156cd19aac1bf
-4	763	7701021510988513	CMakeFiles/CS162_Project.dir/gardenLog.cpp.obj	366e716bde9ff508
-764	913	7701021518637523	CS162_Project.exe	91e156cd19aac1bf
-3	653	7701033633490573	CMakeFiles/CS162_Project.dir/plant.cpp.obj	8e2073e7ea2bfe78
-7	732	7701033633530588	CMakeFiles/CS162_Project.dir/gardenLog.cpp.obj	366e716bde9ff508
-735	869	7701033640804761	CS162_Project.exe	91e156cd19aac1bf
 3	373	7701049189613693	CMakeFiles/CS162_Project.dir/main.cpp.obj	bb1b4ec985544e83
 6	629	7701049189646394	CMakeFiles/CS162_Project.dir/plant.cpp.obj	8e2073e7ea2bfe78
 9	785	7701049189666404	CMakeFiles/CS162_Project.dir/gardenLog.cpp.obj	366e716bde9ff508
 786	934	7701049197436662	CS162_Project.exe	91e156cd19aac1bf
+26	631	7714055865292055	CMakeFiles/CS162_Project.dir/main.cpp.obj	5d553923f1bcde97
+32	1032	7714055865356269	CMakeFiles/CS162_Project.dir/plant.cpp.obj	f7169fcd8c28b6eb
+37	1232	7714055865406867	CMakeFiles/CS162_Project.dir/gardenLog.cpp.obj	9cca35d2569e68f0
+1232	1442	7714055877355959	CS162_Project.exe	91e156cd19aac1bf

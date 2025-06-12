@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project/cmake-build-debug"
+			"value" : "c:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project"
+			"value" : "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project/cmake-build-debug"
+			"value" : "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject/cmake-build-debug"
 		},
 		{
 			"name" : "CS162_Project_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project"
+			"value" : "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

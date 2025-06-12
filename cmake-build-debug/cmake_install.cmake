@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project
+# Install script for directory: C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

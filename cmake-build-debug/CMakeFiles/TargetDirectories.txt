@@ -1,3 +1,3 @@
-C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project/cmake-build-debug/CMakeFiles/CS162_Project.dir
-C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject/cmake-build-debug/CMakeFiles/CS162_Project.dir
+C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/CS162-FinalProject/CS162C-FinalProject-GardenProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
